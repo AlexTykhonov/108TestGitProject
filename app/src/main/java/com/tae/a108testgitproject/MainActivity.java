@@ -3,7 +3,7 @@ package com.tae.a108testgitproject;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//first change after 1st commit for f
+//first change comment + new comment in new branch "newbranch"
 public class MainActivity extends AppCompatActivity {
 
     @Override
